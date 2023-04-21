@@ -19,9 +19,3 @@ struct SunView: View {
     }
 }
 
-
-struct SunView_Previews: PreviewProvider {
-    static var previews: some View {
-        SunView()
-    }
-}
