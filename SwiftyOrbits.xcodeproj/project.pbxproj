@@ -14,6 +14,7 @@
 		F18B159629F33FC70097C3C9 /* SunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B159529F33FC70097C3C9 /* SunView.swift */; };
 		F18B159829F340100097C3C9 /* OrbitPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B159729F340100097C3C9 /* OrbitPathView.swift */; };
 		F18B159A29F340630097C3C9 /* Planet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B159929F340630097C3C9 /* Planet.swift */; };
+		F18B159C29F340960097C3C9 /* Orbit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B159B29F340960097C3C9 /* Orbit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F18B159529F33FC70097C3C9 /* SunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunView.swift; sourceTree = "<group>"; };
 		F18B159729F340100097C3C9 /* OrbitPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrbitPathView.swift; sourceTree = "<group>"; };
 		F18B159929F340630097C3C9 /* Planet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Planet.swift; sourceTree = "<group>"; };
+		F18B159B29F340960097C3C9 /* Orbit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orbit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F18B158629F33F4A0097C3C9 /* SwiftyOrbitsApp.swift */,
 				F18B158829F33F4A0097C3C9 /* ContentView.swift */,
 				F18B159929F340630097C3C9 /* Planet.swift */,
+				F18B159B29F340960097C3C9 /* Orbit.swift */,
 				F18B159729F340100097C3C9 /* OrbitPathView.swift */,
 				F18B159529F33FC70097C3C9 /* SunView.swift */,
 				F18B158A29F33F4B0097C3C9 /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			files = (
 				F18B158929F33F4A0097C3C9 /* ContentView.swift in Sources */,
 				F18B159629F33FC70097C3C9 /* SunView.swift in Sources */,
+				F18B159C29F340960097C3C9 /* Orbit.swift in Sources */,
 				F18B159829F340100097C3C9 /* OrbitPathView.swift in Sources */,
 				F18B158729F33F4A0097C3C9 /* SwiftyOrbitsApp.swift in Sources */,
 				F18B159A29F340630097C3C9 /* Planet.swift in Sources */,
