@@ -18,6 +18,7 @@
 		F18B159E29F340BA0097C3C9 /* PlanetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B159D29F340BA0097C3C9 /* PlanetView.swift */; };
 		F18B15A029F341030097C3C9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B159F29F341030097C3C9 /* Constants.swift */; };
 		F18B15A229F341130097C3C9 /* Global Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B15A129F341130097C3C9 /* Global Functions.swift */; };
+		F18B15A429F3415E0097C3C9 /* OrbitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18B15A329F3415E0097C3C9 /* OrbitsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		F18B159D29F340BA0097C3C9 /* PlanetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetView.swift; sourceTree = "<group>"; };
 		F18B159F29F341030097C3C9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		F18B15A129F341130097C3C9 /* Global Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Global Functions.swift"; sourceTree = "<group>"; };
+		F18B15A329F3415E0097C3C9 /* OrbitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrbitsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			children = (
 				F18B158629F33F4A0097C3C9 /* SwiftyOrbitsApp.swift */,
 				F18B158829F33F4A0097C3C9 /* ContentView.swift */,
+				F18B15A329F3415E0097C3C9 /* OrbitsView.swift */,
 				F18B159F29F341030097C3C9 /* Constants.swift */,
 				F18B15A129F341130097C3C9 /* Global Functions.swift */,
 				F18B159929F340630097C3C9 /* Planet.swift */,
@@ -165,6 +168,7 @@
 				F18B159C29F340960097C3C9 /* Orbit.swift in Sources */,
 				F18B159829F340100097C3C9 /* OrbitPathView.swift in Sources */,
 				F18B159E29F340BA0097C3C9 /* PlanetView.swift in Sources */,
+				F18B15A429F3415E0097C3C9 /* OrbitsView.swift in Sources */,
 				F18B158729F33F4A0097C3C9 /* SwiftyOrbitsApp.swift in Sources */,
 				F18B159A29F340630097C3C9 /* Planet.swift in Sources */,
 				F18B15A229F341130097C3C9 /* Global Functions.swift in Sources */,
