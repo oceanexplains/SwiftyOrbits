@@ -32,9 +32,15 @@ The code for this project is organized into several components:
 **OrbitPathView:** This view represents the orbit path of a planet in the simulation.
 **ContentView:** This view represents the main content view of the simulation.
 
-## Documentation
 
-Additional documentation for this simulation can be found in the Documentation folder. This includes a user guide, technical documentation, and an API reference.
+### Aligning the orbits
+
+The foci of the elliptical orbits are not perfectly centered on the sun after making certain unpredictable edits. I am actively working on a solution to ensure that the foci of all orbits are consistently and accurately aligned with the sun, regardless of any changes made to the code or simulation parameters.
+
+### Hook up to Real Data
+
+Right now I am using real orbital elements for each of the planets, but their starting positions are not realized from an actual ephemeris. This is next up on the list.
+
 
 ## License
 
